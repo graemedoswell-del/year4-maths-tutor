@@ -1,0 +1,48 @@
+{
+  "xp": 0,
+  "level": 1,
+  "world": 1,
+  "streak": 0,
+  "last_played": "",
+  "total": 0,
+  "correct": 0,
+  "badges": [],
+  "topics": {
+    "place_value": {
+      "correct": 0,
+      "total": 0
+    },
+    "addition": {
+      "correct": 0,
+      "total": 0
+    },
+    "subtraction": {
+      "correct": 0,
+      "total": 0
+    },
+    "multiplication": {
+      "correct": 0,
+      "total": 0
+    },
+    "division": {
+      "correct": 0,
+      "total": 0
+    },
+    "fractions": {
+      "correct": 0,
+      "total": 0
+    },
+    "measurement": {
+      "correct": 0,
+      "total": 0
+    },
+    "geometry": {
+      "correct": 0,
+      "total": 0
+    },
+    "statistics": {
+      "correct": 0,
+      "total": 0
+    }
+  }
+}
